@@ -1,0 +1,7 @@
+*.log
+*.env.*
+!*example*.env*
+!*.env.*example*
+
+docker-compose.y*ml
+!docker-compose.example.y*ml
