@@ -36,14 +36,11 @@ It is a **basic template for development environments**.
 # Project Structure
 
 ```
-
-.
-├─ .env.example
-├─ .gitignore
-├─ docker-compose.example.yml
-└─ data/
-└─ .gitignore
-
+├── data
+│   └── .gitignore
+├── .env.example
+├── docker-compose.example.yml
+└── .gitignore
 ````
 
 Description:
